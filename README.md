@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Matthew
 
-I'm 1yr student of Informatics and Inteligent Systems course on <a href="https://www.agh.edu.pl">AGH UST</a> (Poland). Interested in Laravel and Flutter.
+I'm 1yr student of Informatics and Inteligent Systems course on <a target="_blank" href="https://www.agh.edu.pl">AGH UST</a> (Poland). Interested in Laravel and Flutter.
 Some public projects:
-- <a href="http://kalkulatoragh.pl">AGH Calculator</a> (<a href="https://github.com/matisiekpl/agh-calculator">repo</a>)
-- <a href="https://play.google.com/store/apps/details?id=pl.enteam.mifit_gpx_exporter&hl=pl&gl=US"> Mi Fit GPX Exporter</a> (paid, not open source)
+- <a target="_blank" href="http://kalkulatoragh.pl">AGH Calculator</a> (<a target="_blank" href="https://github.com/matisiekpl/agh-calculator">repo</a>)
+- <a target="_blank" href="https://play.google.com/store/apps/details?id=pl.enteam.mifit_gpx_exporter&hl=pl&gl=US"> Mi Fit GPX Exporter</a> (paid, not open source)
 
 <table border="0">
  <tr>
