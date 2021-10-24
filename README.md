@@ -6,6 +6,7 @@ Some public projects:
 - <a target="_blank" href="https://play.google.com/store/apps/details?id=pl.enteam.mifit_gpx_exporter&hl=pl&gl=US"> Mi Fit GPX Exporter</a> (paid, not open source)
 - <a target="_blank" href="https://snapcraft.io/heicy">Heicy</a> (<a target="_blank" href="https://github.com/matisiekpl/heicy">repo</a>)
 - Flight Planner for <a target="_blank" href="http://aeroklub-rzeszowski.pl">Aeroklub Rzeszowski</a>
+- <a href="http://edunails.com">Edunails</a> (backend and devops)
 
 Wordpress-based projects:
 - <a href="https://aeroklub-rzeszowski.pl">Aeroklub Rzeszowski</a>
