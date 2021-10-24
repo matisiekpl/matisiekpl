@@ -7,6 +7,15 @@ Some public projects:
 - <a target="_blank" href="https://snapcraft.io/heicy">Heicy</a> (<a target="_blank" href="https://github.com/matisiekpl/heicy">repo</a>)
 - Flight Planner for <a target="_blank" href="http://aeroklub-rzeszowski.pl">Aeroklub Rzeszowski</a>
 
+Wordpress-based projects:
+- <a href="https://aeroklub-rzeszowski.pl">Aeroklub Rzeszowski</a>
+- <a href="https://ecofly.pl">EcoFly</a>
+- <a href="http://generaacja.pl">generAACja</a>
+- <a href="http://kontaacty.pl">kontAACty</a>
+- <a href="https://adam-mokrzycki.pl">Adam Mokrzycki</a>
+- <a href="http://kalnica.eu">Stacja narciarska Kalnica</a>
+- <a href="https://marcelinadudek.com">Marcelina Dudek</a>
+
 <table border="0">
  <tr>
     <td width="60%"  colspan="8">
