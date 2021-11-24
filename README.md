@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Matusz Woźniak
 
-> Website: https://matisiekpl.github.io/
+> Narzędzia informatyczne notes:
+>
+> Personal website: https://matisiekpl.github.io/
+> 
+> Emoji Typer - wdrożenie przykładowej aplikacji webowej na Kubernetes https://github.com/matisiekpl/emoji-typer http://srv3.enteam.pl:30123/
 
 I'm 1yr student of Informatics and Inteligent Systems course on <a target="_blank" href="https://www.agh.edu.pl">AGH UST</a> (Poland). Interested in Laravel and Flutter.
 Some public projects:
