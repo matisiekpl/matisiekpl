@@ -1,5 +1,5 @@
 ## Hey! 👋 I'm Mateusz
-A 20 years old web developer from Poland.
+A 20 years old student and developer from Poland.
 
 - 🎓 <a href="https://sylabusy.agh.edu.pl/en/1/2/18/1/4/16/140">Computer Science and Intelligent Systems</a> student at AGH UST (Poland).
 - 💻 Programming mainly in PHP, JS, Python and C#.
@@ -15,6 +15,7 @@ A 20 years old web developer from Poland.
 | 🕹️ <a href="https://birdpdf.com" target="_blank">birdpdf.com</a>         | SaaS providing online screenshot making API for b2b use cases                   |
 | 📱 MongoGrip              | iOS App for exploring MongoDB databases from phone                              |
 | 🎮 paysafe.money          | Marketplace for gamers, exchanging PaySafeCard codes into money (not owned now) |
+| 🎾 <a href="https://github.com/SportNite/SportNiteServer">SportNite</a> | GraphQL Backend for SportNite - platform for connecting people in sports |
 
 <table border="0">
 
