@@ -9,10 +9,10 @@ A 20 years old web developer from Poland.
 ## Projects
 | Project                | Description                                                                     |
 |------------------------|---------------------------------------------------------------------------------|
-| ☁ <a href="edunails.com">edunails.com  </a>      | Developing backend services for online video course platform                    |
+| ☁ <a href="https://edunails.com" target="_blank">edunails.com  </a>      | Developing backend services for online video course platform                    |
 | ✈️ Flight Planner         | Aircraft reservation system for Aviation Club in Jasionka                       |
 | ✈️ AeroLearning           | E-Learning software for aircraft and gliders pilots candidates                  |
-| 🕹️ <a href="birdpdf.com">birdpdf.com</a>         | SaaS providing online screenshot making API for b2b use cases                   |
+| 🕹️ <a href="https://birdpdf.com" target="_blank">birdpdf.com</a>         | SaaS providing online screenshot making API for b2b use cases                   |
 | 📱 MongoGrip              | iOS App for exploring MongoDB databases from phone                              |
 | 🎮 paysafe.money          | Marketplace for gamers, exchanging PaySafeCard codes into money (not owned now) |
 
