@@ -7,15 +7,15 @@ A 20 years old student and developer from Poland.
 - 🤖 Interested in DevOps/Cloud and Machine Learning.
 
 ## Projects
-| Project                | Description                                                                     |
-|------------------------|---------------------------------------------------------------------------------|
-| ☁ <a href="https://edunails.com" target="_blank">edunails.com  </a>      | Developing backend services for online video course platform                    |
-| ✈️ Flight Planner         | Aircraft reservation system for Aviation Club in Jasionka                       |
-| ✈️ AeroLearning           | E-Learning software for aircraft and gliders pilots candidates                  |
-| 🕹️ <a href="https://birdpdf.com" target="_blank">birdpdf.com</a>         | SaaS providing online screenshot making API for b2b use cases                   |
-| 📱 MongoGrip              | iOS App for exploring MongoDB databases from phone                              |
-| 🎮 paysafe.money          | Marketplace for gamers, exchanging PaySafeCard codes into money (not owned now) |
-| 🎾 <a href="https://github.com/SportNite/SportNiteServer">SportNite</a> | GraphQL Backend for SportNite - platform for connecting people in sports |
+| Project                | Description                                                                     | Tech |
+|------------------------|---------------------------------------------------------------------------------|------|
+| ☁ <a href="https://edunails.com" target="_blank">edunails.com  </a>      | Developing backend services for online video course platform | C#, MongoDB, Kubernetes, Jenkins |
+| ✈️ Flight Planner         | Aircraft reservation system for Aviation Club in Jasionka                       | Laravel, MySQL |
+| ✈️ AeroLearning           | E-Learning software for aircraft and gliders pilots candidates                  | Laravel, MySQL, Vue |
+| 🕹️ <a href="https://birdpdf.com" target="_blank">birdpdf.com</a>         | SaaS providing online screenshot making API for b2b use cases                   | Laravel, Node.JS, Kubernetes |
+| 📱 MongoGrip              | iOS App for exploring MongoDB databases from phone                              | Flutter |
+| 🎮 paysafe.money          | Marketplace for gamers, exchanging PaySafeCard codes into money (not owned now) | Laravel, Vue, Node.JS |
+| 🎾 <a href="https://github.com/SportNite/SportNiteServer">SportNite</a> | GraphQL Backend for SportNite - platform for connecting people in sports | C#, MySQL, GraphQL, Firebase |
 
 <table border="0">
 
