@@ -1,7 +1,7 @@
 ## Hey! 👋 I'm Mateusz
 A 20 years old web developer from Poland.
 
-- 🎓 Computer Science and Intelligent Systems student at AGH UST (Poland).
+- 🎓 <a href="https://sylabusy.agh.edu.pl/en/1/2/18/1/4/16/140">Computer Science and Intelligent Systems</a> student at AGH UST (Poland).
 - 💻 Programming mainly in PHP, JS, Python and C#.
 - 🎨 Sometimes I create mobile apps in Flutter.
 - 🤖 Interested in DevOps/Cloud and Machine Learning.
